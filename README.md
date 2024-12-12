@@ -1,4 +1,4 @@
-Computer Organization Assembly Language Semester Project for Fall 2024 Semester.
+Computer Organization & Assembly Language Semester Project for Fall 2024 Semester.
 Dated: April 2023 
 
 
